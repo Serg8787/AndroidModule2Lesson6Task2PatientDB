@@ -28,6 +28,7 @@ class ListFragment : Fragment(),PatiensListCallBack {
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
+
  /*   private val patients= arrayListOf<Patient>(
         Patient(
             BitmapFactory.decodeResource(resources,R.drawable.lion),"Peter","Jhons","Male","32","1. Complaints (at admission to the hospital)\n" +
